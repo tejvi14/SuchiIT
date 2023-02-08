@@ -1,0 +1,42 @@
+#Banner {
+    float: right;
+    margin: -215px 151px 10px 10px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gray;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .menu{
+    margin: 12px 12px 12px 12px;
+  }
+  #leftmenu{
+    float: left;
+    margin: 10px 10px 10px 10px;
+  }
+  #rightmenu{
+    float: right;
+    margin: 10px 10px 10px 10px;
+  }
+  #main p{
+    font-size: 15px;
+    line-height: 0.5cm;
+  }
+  .footer{
+    text-align: center;
+    margin-top: 50px;
+  }
